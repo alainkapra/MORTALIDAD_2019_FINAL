@@ -82,28 +82,27 @@ streamlit run app.py
 
 ## 📊 Visualizaciones institucionales
 
-## 📊 Visualizaciones institucionales
-
 ### 🗺️ Distribución de muertes por departamento
-![Distribución por departamento](MORTALIDAD_2019_FINAL/assets/01muertepordepartamento.png)
+![Distribución por departamento](assets/01muertepordepartamento.png)
 
 ### 📆 Total de muertes por mes
-![Muertes por mes](MORTALIDAD_2019_FINAL/assets/02totalmuertespormes.png)
+![Muertes por mes](assets/02totalmuertespormes.png)
 
 ### 🔫 Cinco ciudades más violentas
-![Cinco ciudades más violentas](MORTALIDAD_2019_FINAL/assets/03cincociudadesviolenas.png)
+![Cinco ciudades más violentas](assets/03cincociudadesviolenas.png)
 
 ### 🧘‍♂️ Diez ciudades con menor mortalidad
-![Diez ciudades con menor mortalidad](MORTALIDAD_2019_FINAL/assets/0410ciudadesmenormortalidad.png)
+![Diez ciudades con menor mortalidad](assets/0410ciudadesmenormortalidad.png)
 
 ### ⚕️ Diez principales causas de muerte
-![Diez principales causas de muerte](MORTALIDAD_2019_FINAL/assets/0510principalescausasmuerte.png)
+![Diez principales causas de muerte](assets/0510principalescausasmuerte.png)
 
 ### 🚻 Muertes por sexo y departamento
-![Muertes por sexo y departamento](MORTALIDAD_2019_FINAL/assets/06muerteporsexoydepartamentos.png)
+![Muertes por sexo y departamento](assets/06muerteporsexoydepartamentos.png)
 
 ### 👶 Muertes por grupo etario
-![Muertes por grupo etario](MORTALIDAD_2019_FINAL/assets/07muertegrupoetareo.png)
+![Muertes por grupo etario](assets/07muertegrupoetareo.png)
+
 
 
 
