@@ -69,8 +69,8 @@ Para ejecutar la aplicación localmente:
 
 bash
 # Clonar el repositorio
-git clone https://github.com/usuario/repositorio.git
-cd repositorio
+git clone https://github.com/alainkapra/MORTALIDAD_2019_FINAL.git
+cd MORTALIDAD_2019_FINAL
 
 # Instalar dependencias
 pip install -r requirements.txt
