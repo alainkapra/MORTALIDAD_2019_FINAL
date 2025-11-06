@@ -100,3 +100,4 @@ streamlit run app.py
 
 ### 👶 Muertes por grupo etario
 ![Muertes por grupo etario](assets/07muertegrupoetareo.png)
+
