@@ -78,6 +78,8 @@ pip install -r requirements.txt
 # Ejecutar la aplicación
 streamlit run app.py
 
+---
+
 ## 📊 Visualizaciones institucionales
 
 ### 🗺️ Distribución de muertes por departamento
@@ -100,5 +102,6 @@ streamlit run app.py
 
 ### 👶 Muertes por grupo etario
 ![Muertes por grupo etario](assets/07muertegrupoetareo.png)
+
 
 
