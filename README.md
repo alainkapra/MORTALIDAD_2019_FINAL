@@ -77,3 +77,26 @@ pip install -r requirements.txt
 
 # Ejecutar la aplicación
 streamlit run app.py
+
+## 📊 Visualizaciones institucionales
+
+### 🗺️ Distribución de muertes por departamento
+![Distribución por departamento](assets/muertepordepartamento.png)
+
+### 📆 Total de muertes por mes
+![Muertes por mes](assets/02totalmuertespormes.png)
+
+### 🔫 Cinco ciudades más violentas
+![Cinco ciudades más violentas](assets/03cincociudadesviolenas.png)
+
+### 🧘‍♂️ Diez ciudades con menor mortalidad
+![Diez ciudades con menor mortalidad](assets/0410ciudadesmenormortalidad.png)
+
+### ⚕️ Diez principales causas de muerte
+![Diez principales causas de muerte](assets/0510principalescausasmuerte.png)
+
+### 🚻 Muertes por sexo y departamento
+![Muertes por sexo y departamento](assets/06muerteporsexoydepartamentos.png)
+
+### 👶 Muertes por grupo etario
+![Muertes por grupo etario](assets/07muertegrupoetareo.png)
