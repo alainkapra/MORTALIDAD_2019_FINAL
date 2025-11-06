@@ -76,7 +76,7 @@ cd repositorio
 pip install -r requirements.txt
 
 # Ejecutar la aplicación
-streamlit run app.py
+streamlit run app.py```
 
 ---
 
