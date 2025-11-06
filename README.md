@@ -67,7 +67,7 @@ Pasos seguidos para desplegar la aplicación en [Render](https://render.com):
 
 Para ejecutar la aplicación localmente:
 
-```bash
+bash
 # Clonar el repositorio
 git clone https://github.com/usuario/repositorio.git
 cd repositorio
@@ -76,7 +76,7 @@ cd repositorio
 pip install -r requirements.txt
 
 # Ejecutar la aplicación
-streamlit run app.py```
+streamlit run app.py
 
 ---
 
