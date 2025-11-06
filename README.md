@@ -81,7 +81,7 @@ streamlit run app.py
 ## 📊 Visualizaciones institucionales
 
 ### 🗺️ Distribución de muertes por departamento
-![Distribución por departamento](assets/muertepordepartamento.png)
+![Distribución por departamento](assets/01muertepordepartamento.png)
 
 ### 📆 Total de muertes por mes
 ![Muertes por mes](assets/02totalmuertespormes.png)
@@ -100,4 +100,5 @@ streamlit run app.py
 
 ### 👶 Muertes por grupo etario
 ![Muertes por grupo etario](assets/07muertegrupoetareo.png)
+
 
